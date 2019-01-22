@@ -1,5 +1,5 @@
 Unique Digital Object DAPP project..
 
-It's just intro for github repo. How to transform a digital painting into
+How to transform a digital painting into
 unique digital object. 
 
