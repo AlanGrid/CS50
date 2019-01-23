@@ -1,0 +1,30 @@
+ $color1: red; 
+ $color2: blue; 
+ $color3: purple;
+ $color4: green; 
+ 
+ h1 {
+ 	color: $color4;
+ }
+
+
+ #rsky {
+ 	color: $color3;
+
+ }
+
+ div {
+
+ 	p{ color: blue;}
+
+ 	ul {font-size: 14px; color: $color1; }
+
+ } 
+ 
+
+ ol {
+ 	font-size: 18px; 
+ 	color: $color2; 
+ }
+
+
