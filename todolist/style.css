@@ -1,0 +1,15 @@
+.container{
+	text-align: center;
+
+}
+
+
+ul{
+	list-style-type: none;
+}
+
+
+li{
+	opacity: 1s;
+	transition: opacity 2s ;
+}
