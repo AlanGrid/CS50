@@ -18,8 +18,7 @@ window.onload = function() {
 
 		
 		checkbox.onclick = function(){
-			newTask.setAttribute('style', 'text-decoration: line-through;');
-			newTask.setAttribute('style', 'opacity: 0');
+			newTask.setAttribute('style', 'text-decoration: line-through; opacity: 0;');
 			
 			window.setTimeout(function(){
 				 taskList.removeChild(newTask);
@@ -27,7 +26,7 @@ window.onload = function() {
 
 		};
 
-
+ 
 		newTask.appendChild(checkbox);
 		newTask.appendChild(taskTextNode);
 		taskList.appendChild(newTask);
